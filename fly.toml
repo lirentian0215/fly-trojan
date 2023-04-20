@@ -3,11 +3,11 @@
 # See https://fly.io/docs/reference/configuration/ for information about how to use this file.
 #
 
-app = "lirenda"
+app = "railway"
 primary_region = "sjc"
 
 kill_signal = "SIGINT"
-kill_timeout = 5
+kill_timeout = 5railway
 processes = []
 
 [env]
